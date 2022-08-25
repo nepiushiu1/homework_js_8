@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "homework_js_8",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://nepiushiu1.github.io/homework_js_8",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /homework_js_8/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://nepiushiu1.github.io/homework_js_8"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://nepiushiu1.github.io/homework_js_8/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
