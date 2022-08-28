@@ -18,6 +18,8 @@
     "url": "https://nepiushiu1.github.io/homework_js_8/issues"
   },
   "dependencies": {
+    "@vimeo/player": "^2.17.1",
+    "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
     "simplelightbox": "^2.10.3"
   },
