@@ -39,7 +39,7 @@ function storageСheck() {
   const data = JSON.parse(localStorage.getItem('feedback-form-state'));
   
   if (data) {
-    // formData = JSON.parse(data);
+    formData = data;
     input.value = data.email||'';
     texterea.value = data.message||'';
   }
